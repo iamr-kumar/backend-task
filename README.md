@@ -27,6 +27,9 @@ Services contains the buisness logic for the request. Checking for existing user
 
 Repository deals directly with the database and only contains database access related code. Due to this layered architecture, even the database can be later changed if required from a NoSQL to SQL or vice-versa whithout ever touching any of the other 3 layers.
 
+### Architecture
+![Screenshot 2022-11-13 152257](https://user-images.githubusercontent.com/58480195/201516029-3b0f93f8-4786-43c0-8a06-703b913437f6.png)
+
 ## Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
