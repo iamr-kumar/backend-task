@@ -6,8 +6,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 
@@ -45,12 +43,23 @@ Node.js 17.0 or higher
 
 A step by step series of examples that tell you how to get a development env running.
 
-Copy the .env file into the root directory
+Clone the project
+
+```
+git clone [project-link]
+```
+
+Copy the .env file into the root directory, or create your own .env file with the following variables
+
+- PORT
+- MONGO_URI
+- JWT_SECRET
+- JWT_EXPIRES_IN
+
 Navigate to the project directory in a terminal and run the following commands
 
 ```
 yarn
-
 ```
 
 To start the server in localhost:3000, run the following command
