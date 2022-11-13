@@ -62,4 +62,6 @@ yarn dev
 Some pre generated fake data appears on the terminal after application successfully starts.
 Use these details to send requests.
 
-Import the postman collection in Postman and run the requests.
+Click the following button to run the collection in your Postman
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/12753439-f31e36c2-af87-41ff-ba21-a2cb89beac65?action=collection%2Ffork&collection-url=entityId%3D12753439-f31e36c2-af87-41ff-ba21-a2cb89beac65%26entityType%3Dcollection%26workspaceId%3De605e655-1a41-450f-a45d-2ec0f8f49380#?env%5BPet%20Perfect%20Task%5D=W3sia2V5IjoiYXV0aC10b2tlbiIsInZhbHVlIjoiIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQifV0=)
